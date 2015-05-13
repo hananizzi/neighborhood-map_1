@@ -10,3 +10,6 @@ KnockoutJS, JQuery and Google Maps to create this interactive mapofmy favorite r
 Resources:
 http://www.latlong.net/ - Used to determine lat and long of each restaurant
 
+live demo -
+http://citicoder.com/demo/FavoriteRestaurants/
+
